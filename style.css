@@ -1,0 +1,16 @@
+h1 {
+    color: teal;
+    text-align: center;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.floatRight {
+    float: right;
+}
