@@ -1,0 +1,16 @@
+.refsheet {
+    padding-left: 15%;
+    height: 85%;
+    width: 85%;
+}
+.bold {
+    font-weight: bold;
+}
+
+.tab {
+    margin-left: 40px;
+}
+
+.blackground {
+    background-color: rgb(35, 35, 35);
+}
